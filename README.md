@@ -7,6 +7,8 @@ This script connects After Effects to the AI models you already have installed v
 Works on single images and PNG sequences.
 
 ---
+![demo](https://github.com/gabrieledigiu-maker/ae-comfyui-rmbg-script/blob/main/git.gif)
+
 
 ## Features
 
