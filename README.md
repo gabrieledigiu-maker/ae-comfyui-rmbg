@@ -211,3 +211,13 @@ The AI models have their own licenses:
 - [ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) by 1038lab — model loading approach and inspiration
 - [BiRefNet](https://github.com/ZhengPeng7/BiRefNet) by ZhengPeng7
 - [RMBG-2.0](https://huggingface.co/briaai/RMBG-2.0) by BRIA AI
+
+---
+
+## Support
+
+If you find this useful and want to support the work — thank you! ☕
+
+**[![Support](https://img.shields.io/badge/Support-PayPal-blue)](https://paypal.me/digigabbo)**
+
+Any amount is appreciated and helps keep these tools coming.
